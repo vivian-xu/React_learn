@@ -1,0 +1,19 @@
+{
+  "name": "react_learn",
+  "version": "1.0.0",
+  "description": "react test for learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivian-xu/React_learn.git"
+  },
+  "author": "vivian-xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivian-xu/React_learn/issues"
+  },
+  "homepage": "https://github.com/vivian-xu/React_learn#readme"
+}
