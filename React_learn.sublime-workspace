@@ -1,0 +1,1994 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"not",
+				"notice"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"ie",
+				"ie6-8"
+			],
+			[
+				"tex",
+				"text-overflow"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"se",
+				"search-input"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"con",
+				"construct"
+			],
+			[
+				"ic",
+				"icon-list-left"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"sli",
+				"slide-nav-dot"
+			],
+			[
+				"block",
+				"block-content"
+			],
+			[
+				"slide",
+				"slide-list"
+			],
+			[
+				"slid",
+				"slide-list"
+			],
+			[
+				"la",
+				"lc:a	&:last-child"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"font",
+				"font-color"
+			],
+			[
+				"sl",
+				"slide-list"
+			],
+			[
+				"sld",
+				"slide-news-dot"
+			],
+			[
+				"titl",
+				"title"
+			],
+			[
+				"title",
+				"title-two"
+			],
+			[
+				"tite",
+				"title-three"
+			],
+			[
+				"news",
+				"news-list"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"bl",
+				"block-left部分，新闻动态"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"wid	width"
+			],
+			[
+				"mo",
+				"mouseleave	.mouseleave()"
+			],
+			[
+				"mouse",
+				"mouseenter	.mouseenter()"
+			],
+			[
+				"_s",
+				"_subNav"
+			],
+			[
+				"_sub",
+				"_subNavUl"
+			],
+			[
+				"_",
+				"_firstNav"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"_lis",
+				"_listMenus_length"
+			],
+			[
+				"test",
+				"testcontent"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"one",
+				"one-hide"
+			],
+			[
+				"20px",
+				"20px"
+			],
+			[
+				"twoT",
+				"twoTitle"
+			],
+			[
+				"fiv",
+				"fiveMain部分"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"ten",
+				"ten-right"
+			],
+			[
+				"bb",
+				"border-bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"vsb",
+				"vsb-container"
+			],
+			[
+				"vs",
+				"vsb-space"
+			],
+			[
+				"twoM",
+				"twoMain"
+			],
+			[
+				"nine",
+				"nineImg"
+			],
+			[
+				"li",
+				"li	:link"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"five",
+				"fiveMainOne"
+			],
+			[
+				"th",
+				"threeList"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"threeMai",
+				"threeMainThree"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"thre",
+				"threeTitle"
+			],
+			[
+				"trA",
+				"threeAction"
+			],
+			[
+				"tT",
+				"threeTitle"
+			],
+			[
+				"lh",
+				"lh	line-height"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"wi",
+				"wid	width"
+			],
+			[
+				"ban",
+				"ban2"
+			],
+			[
+				"logi",
+				"login"
+			],
+			[
+				"on",
+				"oneTitle"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"six",
+				"sixMain"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"21px",
+				"21px"
+			],
+			[
+				"tl",
+				"twoLeft"
+			],
+			[
+				"three",
+				"threeLeftList"
+			],
+			[
+				"the",
+				"threeListImg"
+			],
+			[
+				"twoL",
+				"twoLeft"
+			],
+			[
+				"bs",
+				"border-style"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"two",
+				"twoRightOne"
+			],
+			[
+				"han",
+				"handlerClick"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"ca",
+				"calcuHistoryItem"
+			],
+			[
+				"weui_actionsheet",
+				"weui_actionsheet_menu"
+			],
+			[
+				"weui",
+				"weui_actionsheet_cell"
+			],
+			[
+				"read",
+				"readyItem"
+			],
+			[
+				"key",
+				"key"
+			],
+			[
+				"cal",
+				"calcuHistoryItem"
+			],
+			[
+				"ap",
+				"append	.append()"
+			],
+			[
+				"we",
+				"weui_actionsheet_cell"
+			],
+			[
+				"loc",
+				"locationlist"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"cone",
+				"console"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"lc",
+				"locationlist"
+			],
+			[
+				"gt",
+				"getItem"
+			],
+			[
+				"new",
+				"newEle"
+			],
+			[
+				"las",
+				"lastOut"
+			],
+			[
+				"get",
+				"getLocalStorage"
+			],
+			[
+				"equ",
+				"equalVal"
+			],
+			[
+				"curr",
+				"curriedAdd"
+			],
+			[
+				"fin",
+				"finalArgs"
+			],
+			[
+				"inner",
+				"innerArgs"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"u",
+				"user-info"
+			],
+			[
+				"use",
+				"user_info"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"pr",
+				"products-image"
+			],
+			[
+				"op",
+				"operators"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/vivian/guoguo/Design/山东深圳研究院/html/list.html",
+			"settings":
+			{
+				"buffer_size": 12632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/styles/App.css",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Main.js",
+			"settings":
+			{
+				"buffer_size": 549,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"s sh",
+				"Set Syntax: HTML"
+			],
+			[
+				"sssa",
+				"Set Syntax: Sass"
+			],
+			[
+				"ssj",
+				"Set Syntax: Jade"
+			],
+			[
+				"ins	",
+				"Package Control: Install Package"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"e",
+				"Emmet: Merge Lines"
+			],
+			[
+				"ss",
+				"Set Syntax: YAML"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"pref",
+				"Autoprefix CSS"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"prefix",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				":q",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				":e",
+				":$ - EOF"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"emm",
+				"Emmet: Merge Lines"
+			],
+			[
+				"subli",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 332.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vivian/gitOsc/vsb_shandong/src/sass/base.scss",
+		"/Users/vivian/gitOsc/vsb_shandong/src/templates/index.jade",
+		"/Users/vivian/gitOsc/vsb_shandong/src/commons/sass/base.scss",
+		"/Users/vivian/gitOsc/vsb_shandong/builds/development/html/article.html",
+		"/Users/vivian/gitOsc/vsb_shandong/builds/development/html/article_pic.html",
+		"/Users/vivian/gitOsc/vsb_shandong/src/templates/article.jade",
+		"/Users/vivian/gitOsc/vsb_shandong/src/templates/article_pic.jade",
+		"/Users/vivian/svn/guoguo/Design/work/一/index.html",
+		"/Users/vivian/gitOsc/vsb_shandong/builds/development/html/index.html",
+		"/Users/vivian/gulp/builds/development/index.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/sell_lists_sp.html",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/共享work/temp.html",
+		"/Users/vivian/Downloads/焦点图轮播效果(源代码)/js/jquery.1.10.2.js",
+		"/Users/vivian/Documents/git/guoguo_sample/src/sass/index2.tep.css",
+		"/Users/vivian/Documents/git/guoguo_sample/src/sass/header.scss",
+		"/Users/vivian/Documents/git/guoguo_sample/src/js/test.js",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/test.htm",
+		"/Users/vivian/Documents/git/guoguo_sample/src/sass/untitled",
+		"/Users/vivian/Documents/git/guoguo_sample/src/sass/id_card_sp.scss",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/id_card.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/buy_lists_sp.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/sass/base.scss",
+		"/Users/vivian/Documents/git/guoguo_sample/src/sass/wrapBlock.scss",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Users/vivian/Documents/git/guoguo_sample/src/sass/sell_lists_sp.scss",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/sell_lists.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/css/client_lists_sp.css",
+		"/Users/vivian/Documents/git/guoguo_sample/src/sass/client_lists_sp.scss.css",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/client_lists_sp.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/guoguo_sample.sublime-project",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/place_order_sp.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/sass/wrap_block.scss",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/order_details.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/shop_home_sp2.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/sell_details_sp.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/add_shop_sp.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/product_sp.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/product_detail_sp.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/shop_home_sp.html",
+		"/Users/vivian/Documents/git/guoguo_sample/src/templates/guoguo_sample.sublime-workspace",
+		"/Users/vivian/Documents/git/guoguofarm/src/sass/sell_details.scss",
+		"/Users/vivian/Documents/git/guoguofarm/src/templates/order_details.html",
+		"/Users/vivian/Documents/git/guoguofarm/src/sass/shopping_cart.scss",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/vivian/Documents/git/guoguofarm/src/templates/add_product.html",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/vivian/Documents/git/guoguofarm/src/js/nav.js",
+		"/Users/vivian/Documents/git/guoguofarm/src/css/reset.css",
+		"/Users/vivian/Documents/git/guoguofarm/src/sass/id-card.scss",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/Sass.sublime-settings",
+		"/Users/vivian/Documents/git/guoguofarm/src/sass/place_order.sass",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/Autoprefixer.sublime-settings",
+		"/Users/vivian/Documents/git/guoguofarm/src/css/attention_lists.css",
+		"/Users/vivian/Documents/git/guoguofarm/src/css/add_shop.css",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/vivian/Documents/git/guoguofarm/src/templates/shop.html",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/vivian/Documents/git/guoguofarm/src/templates/add_shop.html",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/Color Highlighter/Default (OSX).sublime-keymap",
+		"/Users/vivian/Documents/git/guoguofarm/src/templates/template.sublime-workspace",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/vivian/Documents/git/guoguofarm/src/sass/nav.scss",
+		"/Users/vivian/Documents/git/guoguofarm/src/css/test.css",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/Theme - Sodarized/README.md",
+		"/Users/vivian/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/vivian/Documents/git/guoguofarm/src/templates/mesg-signin.html",
+		"/Users/vivian/Documents/git/guoguofarm/src/fonts/icomoon.woff",
+		"/Users/vivian/Documents/git/guoguofarm/src/fonts/style.css",
+		"/Users/vivian/Documents/git/guoguofarm/signin.html",
+		"/Users/vivian/Documents/git/guoguofarm/.gulpfile.js.swp",
+		"/Users/vivian/Documents/git/guoguofarm/.gulpfile.js.swo",
+		"/Users/vivian/Documents/git/guoguofarm/add_shop.html",
+		"/Users/vivian/Documents/git/guoguofarm/sell_lists.html",
+		"/Users/vivian/Documents/git/guoguofarm/src/js/shop_home.js",
+		"/Users/vivian/Documents/git/guoguofarm/shop_home.html",
+		"/Users/vivian/Documents/git/guoguofarm/src/fonts2/style.css",
+		"/Users/vivian/Documents/git/guoguofarm/src/fonts3/style.css",
+		"/Users/vivian/Documents/git/guoguofarm/src/css/shop_home.css",
+		"/Users/vivian/node_modules/gulp/package.json",
+		"/Users/vivian/Documents/git/guoguofarm/index.html",
+		"/Users/vivian/Documents/git/guoguofarm/id-card.html",
+		"/Users/vivian/Downloads/icomoon 2/fonts/style.css",
+		"/Users/vivian/node_modules/weui/src/example/example.js",
+		"/Users/vivian/node_modules/weui/package.json",
+		"/Users/vivian/node_modules/weui/gulpfile.js",
+		"/Users/vivian/node_modules/gulp/index.js",
+		"/Users/vivian/Documents/git/guoguofarm/src/config.rb",
+		"/Users/vivian/Documents/git/guoguofarm/css/nav.css",
+		"/Users/vivian/Documents/git/guoguofarm/sass/nav.sass",
+		"/Users/vivian/Documents/git/guoguofarm/fonts/style.css",
+		"/Users/vivian/Documents/git/guoguofarm/css/main.css",
+		"/Users/vivian/Documents/git/Bootstrap_Metro_Dashboard/index.html",
+		"/Users/vivian/Documents/git/vs_resume/index.html",
+		"/Users/vivian/guoguo/Design/css/start.css",
+		"/Users/vivian/guoguo/Design/start.html",
+		"/Users/vivian/svn/guoguo/css/main.css",
+		"/Users/vivian/rfid/manage.py",
+		"/Users/vivian/rfid/base/templates/vivian.html",
+		"/Users/vivian/rfid/base/templates/base.html",
+		"/Users/vivian/Documents/git/Bootstrap_Metro_Dashboard/form.html",
+		"/Users/vivian/rfid/base/templates/warehouse-reduce.html",
+		"/Users/vivian/rfid/base/templates/warehouse-add.html",
+		"/Users/vivian/rfid/base/templates/sidebar.html",
+		"/Users/vivian/rfid/base/templates/rfid-account.html",
+		"/Users/vivian/rfid/base/templates/navbar.html",
+		"/Users/vivian/rfid/base/templates/on-off-shelves.html",
+		"/Users/vivian/rfid/base/templates/on-the-shelves.html",
+		"/Users/vivian/rfid/base/templates/off-the-shelves.html",
+		"/Users/vivian/Documents/git/rfid/base/static/css/navbar-responsive.css",
+		"/Users/vivian/Documents/git/Bootstrap_Metro_Dashboard/css/style-responsive.css",
+		"/Users/vivian/Documents/git/rfid/base/static/css/navbar.css",
+		"/Users/vivian/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/Wechat/1.2/3bd0e24414c6dd4814368ab86da8d621/Message/MessageTemp/1396db39aa7d82b6f6f9d9588b392e41/OpenData/Sesame/webpack.config.js",
+		"/Users/vivian/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/Wechat/1.2/3bd0e24414c6dd4814368ab86da8d621/Message/MessageTemp/1396db39aa7d82b6f6f9d9588b392e41/OpenData/Sesame/package.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"float_left",
+			"40",
+			"rem",
+			"10",
+			"nav",
+			"now-position",
+			"position",
+			"one-more",
+			"13rem",
+			"110px",
+			"11rem",
+			"150px",
+			"rem",
+			"reem",
+			"193px",
+			"width",
+			"580px",
+			"infooter",
+			"rem",
+			"height",
+			"600px",
+			"200px",
+			"880px",
+			"width",
+			"880px",
+			"#",
+			"更多",
+			"#",
+			"=\"#\")",
+			"href",
+			"=\"#\")",
+			"base.css",
+			"down",
+			"left",
+			"top",
+			"28px",
+			"span",
+			"list",
+			"images",
+			"png",
+			"images",
+			": ",
+			"images",
+			":",
+			",",
+			"#",
+			"'#",
+			"title-one",
+			"one-title",
+			"one-more",
+			"four-mo",
+			"href",
+			"title",
+			"a",
+			"one-more",
+			"height",
+			"rgba",
+			"slow",
+			"images",
+			"\"></",
+			"class",
+			"31px",
+			"title",
+			"titletwo",
+			"this",
+			"11px",
+			"float_right",
+			"span",
+			"p",
+			"这里是新闻",
+			"span",
+			"这里是新闻",
+			"p",
+			"more",
+			"30px",
+			"span",
+			"href",
+			"1",
+			"li",
+			"$inWid",
+			"12rem",
+			"40px",
+			"show",
+			"inSubNav",
+			"li",
+			"26px",
+			"li",
+			"16px",
+			"17px",
+			"5px",
+			"four",
+			"a",
+			"titleFour",
+			"href",
+			"li",
+			"食品安全管理员培训及考核顺利举行",
+			"li",
+			"href",
+			"li",
+			"value",
+			"#",
+			"img",
+			"key",
+			" #",
+			"var",
+			"icon",
+			"'#'",
+			"= ",
+			"span",
+			"this",
+			"p",
+			"这里是新闻",
+			"p",
+			"li",
+			"article",
+			"li",
+			"active",
+			".a",
+			"span",
+			"sevenOne",
+			"a",
+			"ain",
+			"one-hide",
+			"a",
+			"教学科研",
+			"教学",
+			"教学ke yan",
+			"教学"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"5"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/vivian/guoguo/Design/山东深圳研究院/html/list.html",
+					"settings":
+					{
+						"buffer_size": 12632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/index.html",
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "src/styles/App.css",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "src/index.js",
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/Main.js",
+					"settings":
+					{
+						"buffer_size": 549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"test",
+				"templates/test.html"
+			],
+			[
+				"c",
+				"sass/client_lists_sp.scss"
+			],
+			[
+				"te",
+				"templates/test.html"
+			],
+			[
+				"ca",
+				"sass/calculate.scss"
+			],
+			[
+				"",
+				"js/calculate.js"
+			],
+			[
+				"id",
+				"sass/id_card_sp.scss"
+			],
+			[
+				"sl",
+				"templates/sell_lists_sp.html"
+			],
+			[
+				"s",
+				"templates/sell_lists_sp.html"
+			],
+			[
+				"p",
+				"templates/product_sp.html"
+			],
+			[
+				"w",
+				"sass/wrapBlock.scss"
+			],
+			[
+				"sells",
+				"sass/sell_lists_sp.scss"
+			],
+			[
+				"sel",
+				"templates/sell_lists_sp.html"
+			],
+			[
+				"cle",
+				"sass/client_lists_sp.scss"
+			],
+			[
+				"cl",
+				"sass/client_lists_sp.scss.css"
+			],
+			[
+				"buyl",
+				"sass/buy_lists_sp.scss"
+			],
+			[
+				"bu",
+				"sass/buy_lists_sp.scss"
+			],
+			[
+				"wr",
+				"sass/wrapBlock.scss"
+			],
+			[
+				"cli",
+				"templates/client_lists_sp.html"
+			],
+			[
+				"sels",
+				"templates/sell_lists_sp.html"
+			],
+			[
+				"wra",
+				"sass/wrapBlock.scss"
+			],
+			[
+				"b",
+				"templates/buy_details.html"
+			],
+			[
+				"shop",
+				"sass/shop_home_sp.scss"
+			],
+			[
+				"resec",
+				"src/css/reset.css"
+			],
+			[
+				"re",
+				"src/css/reset.css"
+			],
+			[
+				"pla",
+				"src/templates/place_order.html"
+			],
+			[
+				"ad",
+				"sass/add_shop.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true
+}
